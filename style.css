@@ -1,0 +1,52 @@
+body{
+  background-color: darkblue;
+  }
+  
+  canvas{
+    border: 1px solid grey;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 25px;
+  }
+  
+  img{
+    display: none;
+  }
+
+  .pRed{
+    background-color: red;
+    padding: 10px;
+    width: 100px;
+  }
+
+  .pYellow{
+    background-color: yellow;
+    padding: 10px;
+    width: 100px;
+
+  }
+
+  .pGreen{
+    background-color: green;
+    padding: 10px;
+    width: 100px;
+
+  }
+  .pBlue{
+    background-color: blue;
+    padding: 10px;
+    width: 100px;
+
+  }
+
+
+  #btn{
+    background-color: silver;
+    padding: 10px;
+    color: darkviolet;
+  }
+
+  .div1{
+    position: absolute;
+    margin-top: 100px;
+  }
